@@ -1,5 +1,7 @@
 # M9NE.github.io
 Welcome to ThatCrazyME (M9NE) official website
+
+
                                                    learning:
                                                    pyhton
                                                    c
@@ -15,14 +17,17 @@ Welcome to ThatCrazyME (M9NE) official website
                                                    monitor: AOC 144hz
                                                    OS: windows 11
 
-I am content creator + learning programming 
-soon I will upload a lot of projects 
+                                            I am content creator + learning programming 
+                                            
+                                            
+                                            soon I will upload a lot of projects 
 
 
 
-Thank you!
+                                                 Thank you!
 
-END!!
+                                             
+                                                       END!!
 
                                                 
                                                   
