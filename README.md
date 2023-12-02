@@ -9,7 +9,7 @@ Welcome to ThatCrazyME (M9NE) official website
 
                                                    My specifications:
                                                    Im using PC
-                                                   graphics car: GTX 1650 ti
+                                                   graphics card: GTX 1650 ti
                                                    core intel 5 13600K
                                                    keyboard: soon
                                                    mouse: soon
